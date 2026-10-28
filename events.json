@@ -1,0 +1,26 @@
+[
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "starredAt": "2025-02-14",
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "squoosh",
+    "owner": "GoogleChromeLabs",
+    "description": "Make images smaller using best-in-class codecs, right in the browser.",
+    "language": "TypeScript",
+    "starredAt": "2025-01-28",
+    "url": "https://github.com/GoogleChromeLabs/squoosh"
+  },
+  {
+    "name": "just",
+    "owner": "casey",
+    "description": "A handy way to save and run project-specific commands.",
+    "language": "Rust",
+    "starredAt": "2024-12-09",
+    "url": "https://github.com/casey/just"
+  }
+]
